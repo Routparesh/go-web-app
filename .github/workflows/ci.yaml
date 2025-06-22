@@ -30,4 +30,4 @@ jobs:
       - name: golanglint-ci
         uses: golangci/golangci-lint-action@v3
         with:
-          version: v1.57.2
+          version: v1.58.2
